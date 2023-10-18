@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  artist_name: MyString
+  type_of_album: MyString
+  rating: 1
+  genre: MyString
+  external_link: MyString
+  image_url: MyString
+
+two:
+  artist_name: MyString
+  type_of_album: MyString
+  rating: 1
+  genre: MyString
+  external_link: MyString
+  image_url: MyString
